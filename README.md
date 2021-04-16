@@ -3,5 +3,5 @@
 ## Exercice effectué en suivant le tutoriel de Online Tutorials
 
 
-![alt text](C:/Users/marco/Desktop/RotatingEarth.png "Rotating Earth")
+![alt text](https://github.com/m-mrzl/rotating-earth/blob/main/RotatingEarth.png "Rotating Earth")
 
